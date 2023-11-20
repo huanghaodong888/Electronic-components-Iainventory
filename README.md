@@ -1,4 +1,4 @@
-<h1>Electronic Components <a href="https://iainventory.com/">Iainventory</a></h1>
+<h1><a href="https://iainventory.com/">Electronic Components Iainventory</a></h1>
 <p></p>
 
 ### Hi there 👋
