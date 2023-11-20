@@ -5,7 +5,8 @@ Electronic components are parts of electronic equipment, small machines and inst
 
 Electronic components include <a href="https://iainventory.com/collections/resistors/" style="text-decoration: none;">Resistors</a>, capacitors, inductors, potentiometers, tubes, heat sinks, electromechanical components, connectors, discrete semiconductor devices, electro-acoustic devices, laser devices, electronic display devices, optoelectronic devices, sensors, power supplies, switches, miniature specialized motors, electronic transformers, relays, printed circuit boards, integrated circuits, a variety of circuits, piezoelectrics, crystals, quartz ceramics, and magnetic materials used to Printed circuit board substrates for electronic functional process-specific materials and parts, such as electronic adhesive (tape) products, electronic chemical materials and parts.
 
-The electronic components are internationally certified with CE quality certification of the European Union (EU), UL certification of the United States (US), VDE and TUV certification of Germany, and CQC certification of China and other domestic and international certifications to ensure the quality of the components.
+The electronic components are internationally certified with CE quality certification of the European Union (EU), UL certification of the United States (US), VDE and TUV certification of Germany, and CQC certification of China and other domestic and international certifications to ensure the quality of the components.![logo](https://github.com/huanghaodong888/Electronic-components-Iainventory/assets/49135762/58d4c5ad-946a-4d72-bd11-8b5070984e54)
+
 
 ### Hi there 👋
 
