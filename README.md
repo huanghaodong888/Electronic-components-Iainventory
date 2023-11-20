@@ -1,6 +1,5 @@
-<h1>Electronic Components Iainventory</h1>
-
-
+<h1>Electronic Components <a href="https://iainventory.com/">Iainventory</a></h1>
+<p></p>
 
 ### Hi there 👋
 gbgkhkjh
