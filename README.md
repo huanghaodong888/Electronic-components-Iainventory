@@ -1,3 +1,8 @@
+<style>
+a {
+  text-decoration: none;
+}
+</style>
 <h1><a href="https://iainventory.com/" >Electronic Components Iainventory</a></h1>
 <p>General term for components and devices</p>
 
