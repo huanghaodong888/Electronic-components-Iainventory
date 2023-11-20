@@ -1,5 +1,5 @@
 <h1><a href="https://iainventory.com/" style="color: black">Electronic Components Iainventory</a></h1>
-<p>General term for components and devices</p>
+<blockquote><p>General term for components and devices</p></blockquote>
 
 Electronic components are parts of electronic equipment, small machines and instruments. They usually consist of multiple parts that can be used interchangeably in similar products. They usually refer to certain parts of industries such as electrical appliances, radios and instruments. Capacitors, transistors, filaments, springs, etc. are collectively referred to as electronic components. Common ones include diodes.
 
