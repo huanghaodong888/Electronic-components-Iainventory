@@ -1,4 +1,4 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://iainventory.com/">![Snipaste_2023-11-20_16-23-01](https://github.com/huanghaodong888/Electronic-components-Iainventory/assets/49135762/0dd41f56-8404-4448-94f7-45b387497f3d)
+<a href="https://iainventory.com/"><img src="https://github.com/huanghaodong888/Electronic-components-Iainventory/assets/49135762/0dd41f56-8404-4448-94f7-45b387497f3d" style="display: block; margin: 0 auto;" alt="Iainventory">
 </a>
 <h2>Electronic Components Iainventory</h2>
 <blockquote><p>General term for components and devices</p></blockquote>
