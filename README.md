@@ -1,12 +1,12 @@
-<h1><a href="https://iainventory.com/" style="color: black">Electronic Components Iainventory</a></h1>
+<a href="https://iainventory.com/">![logo](https://github.com/huanghaodong888/Electronic-components-Iainventory/assets/49135762/58d4c5ad-946a-4d72-bd11-8b5070984e54)</a>
+<h2>Electronic Components Iainventory</h2>
 <blockquote><p>General term for components and devices</p></blockquote>
 
 Electronic components are parts of electronic equipment, small machines and instruments. They usually consist of multiple parts that can be used interchangeably in similar products. They usually refer to certain parts of industries such as electrical appliances, radios and instruments. Capacitors, transistors, filaments, springs, etc. are collectively referred to as electronic components. Common ones include diodes.
 
-Electronic components include <a href="https://iainventory.com/collections/resistors/" style="text-decoration: none;">Resistors</a>, capacitors, inductors, potentiometers, tubes, heat sinks, electromechanical components, connectors, discrete semiconductor devices, electro-acoustic devices, laser devices, electronic display devices, optoelectronic devices, sensors, power supplies, switches, miniature specialized motors, electronic transformers, relays, printed circuit boards, integrated circuits, a variety of circuits, piezoelectrics, crystals, quartz ceramics, and magnetic materials used to Printed circuit board substrates for electronic functional process-specific materials and parts, such as electronic adhesive (tape) products, electronic chemical materials and parts.
+Electronic components include <a href="https://iainventory.com/collections/resistors/" style="text-decoration: none;">Resistors</a>, <a href="https://iainventory.com/collections/capacitors-1" style="text-decoration: none;">Capacitors</a>, inductors, potentiometers, tubes, heat sinks, electromechanical components, connectors, discrete semiconductor devices, electro-acoustic devices, laser devices, electronic display devices, optoelectronic devices, sensors, power supplies, switches, miniature specialized motors, electronic transformers, relays, printed circuit boards, integrated circuits, a variety of circuits, piezoelectrics, crystals, quartz ceramics, and magnetic materials used to Printed circuit board substrates for electronic functional process-specific materials and parts, such as electronic adhesive (tape) products, electronic chemical materials and parts.
 
-The electronic components are internationally certified with CE quality certification of the European Union (EU), UL certification of the United States (US), VDE and TUV certification of Germany, and CQC certification of China and other domestic and international certifications to ensure the quality of the components.![logo](https://github.com/huanghaodong888/Electronic-components-Iainventory/assets/49135762/58d4c5ad-946a-4d72-bd11-8b5070984e54)
-
+The electronic components are internationally certified with CE quality certification of the European Union (EU), UL certification of the United States (US), VDE and TUV certification of Germany, and CQC certification of China and other domestic and international certifications to ensure the quality of the components.
 
 ### Hi there 👋
 
